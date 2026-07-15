@@ -6,7 +6,7 @@ import io
 # Configuración inicial de la página
 st.set_page_config(page_title="Matriz comparativa", layout="wide", page_icon="⚙️")
 
-st.title("⚙️ Procesador ETL: Control Presupuestal (Real vs. Matriz)")
+st.title("⚙️ Control de costos: Control Presupuestal (Real vs. Matriz)")
 st.caption("Carga los archivos transaccionales y las matrices para generar el comparativo consolidado.")
 
 # ---------------- 1. Zona de Carga de Archivos ----------------
